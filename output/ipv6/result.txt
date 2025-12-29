@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-27 18:38:43,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2025-12-29 18:41:13,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -157,8 +157,6 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=0a02f2e99ab57689f93
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$订阅源
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8$订阅源
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8$订阅源
-浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$订阅源
-浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$订阅源
 湖南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010058$订阅源
 北京卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010143$订阅源
 北京卫视,https://smart.pendy.dpdns.org/Smart.php?id=beijing$订阅源
@@ -172,6 +170,7 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=0a02f2e99ab57689f93
 湖北卫视,https://www.freetv.top/migu/947472496.m3u8?migutoken=9e0b6e23bb7725ae05db38e94560710be0065754e80ee0fe715dae0c732fefe350b5f8d87d396729f775bdbbff23ab9be7803bc3259bbcf04aeb009ddf7ef6cc8c478a5721202f4e2a0946836a$订阅源
 黑龙江卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010056$订阅源
 黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8$订阅源
+黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
 安徽卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226391$订阅源
 重庆卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010053$订阅源
@@ -203,8 +202,6 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=0a02f2e99ab57689f93
 海南卫视,https://www.freetv.top/migu/947472502.m3u8?migutoken=61e4fd9bf58ef5793a154534fc3b69a6905900f2133acd6c3fe723e7b4520ad20ebd351ceb44d42a3a09fa5e7e402be1cec3e5c93b1a07ac90681ef873a367d7cb68040b3be9d7873347efa755$订阅源
 海南卫视,https://www.freetv.top/migu/947472502.m3u8?migutoken=b49395c0adad3f977a69d9555b7ec0e60a9f6076a9bd17687472774c39f5e60c68b55ab46fdf0d73b68a871b71b438163c9ae6604499693eb260ed04ebe98df3f12124410b199e0741f3429b11$订阅源
 河北卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010101$订阅源
-河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8$订阅源
-河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8$订阅源
 河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480$订阅源
 河南卫视,https://www.freetv.top/migu/790187291.m3u8?migutoken=3fa5112cca2c2ce74028510dfbaacbc2dce25969982adc457060f0def4c56e2d5efdeb3d0e4ef181a2255dd07c1e7723b5bee70da78172e50618743c5eac8808279282803f9488156ec4d7dbac$订阅源
 河南卫视,https://www.freetv.top/migu/790187291.m3u8?migutoken=8cfda6b4bd8593bb9739434fecdd1cd097ab9b9609ed72d6de4ca14196c33fbc5ea88d4dae5a4c8a359213f9affc7ab2cf675a934561839e4060ba75bd56e43da713a62e3ebabc4ced1c770bca$订阅源
@@ -267,11 +264,7 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=0a02f2e99ab57689f93
 
 ☘️上海频道,#genre#
 七彩戏剧,http://php.jdshipin.com/itv6s.php?cid=bestzb&id=5000000011000031116$订阅源
-上海新闻综合,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8$订阅源
-上海新闻综合,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8$订阅源
-上海第一财经,http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8$订阅源
 上海纪实,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010067$订阅源
-上海都市,http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8$订阅源
 东方影视,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000032212$订阅源
 东方影视,https://www.freetv.top/migu/617290047.m3u8?migutoken=86c02ad0875d5cc49d77bcc8bdb628f2c9d508ffc323b964a03c8f92dde4afafa0345cf5a8fefbdf915c748e3d11c6c18e27ae1e21a609cec31a45e6c437db26a7a243625f9cf35c271171a22c$订阅源
 动漫秀场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113$订阅源
@@ -282,7 +275,6 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=0a02f2e99ab57689f93
 第一财经,https://cdn3.163189.xyz/163189/dycj$订阅源
 第一财经,https://www.freetv.top/migu/608780988.m3u8?migutoken=62e21890acbd9928d0be0b4eae9f5e32e1879604b785ee7ce8751d5001a9ff431d7714025aa03d48a2b190ff214e5115dcb6ba455c3d26b1db0f5b3cb49c5967429ff3b1fe8e96e87cc6146543$订阅源
 第一财经,https://www.freetv.top/migu/608780988.m3u8?migutoken=94882e783c75b9369ca6a018f97fe3a3c0018f9da123958e316bb810ef22e907f0672a7d63496e5cb5041eb125b1f1ee6996ac856b0c0c9828348878b8a4101384b9a851fb1dea60a7fafeea35$订阅源
-第一财经,http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8$订阅源
 第一财经,http://ls.qingting.fm/live/276.m3u8$订阅源
 第一财经,http://ls.qingting.fm/live/276.m3u8$订阅源
 
@@ -313,4 +305,3 @@ CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=8bdd5fb612b1814bc05
 五星体育,http://cdn3.163189.xyz/163189/wxty$订阅源
 五星体育,http://cdn3.163189.xyz/163189/wxty$订阅源
 五星体育,https://cdn3.163189.xyz/163189/wxty$订阅源
-五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8$订阅源
