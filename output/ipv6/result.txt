@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-31 18:40:29,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-01-01 18:41:10,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -302,6 +302,6 @@ CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=8bdd5fb612b1814bc05
 纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8$订阅源
 纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8$订阅源
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport$订阅源
-五星体育,http://cdn3.163189.xyz/163189/wxty$订阅源
-五星体育,http://cdn3.163189.xyz/163189/wxty$订阅源
 五星体育,https://cdn3.163189.xyz/163189/wxty$订阅源
+五星体育,http://cdn3.163189.xyz/163189/wxty$订阅源
+五星体育,http://cdn3.163189.xyz/163189/wxty$订阅源
